@@ -1,0 +1,3 @@
+local v = {}
+local v.Version = "V1.0 Beta"
+return v
